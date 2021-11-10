@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  background-color: lightseagreen;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  color: darkslategrey;
+}
+.botones{
+    text-align: center;
+
+}
+ol{
+    
+    text-align: center;
+    padding: 20px;
+    
+    
+}
+ol li{
+     border-radius: 20px 15px;
+    border: solid 2px white  ;
+    display: flex;
+    justify-content: column;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+
+    height: 30px;
+;
+    margin: 0;
+    padding: 15px;
+    
+}
